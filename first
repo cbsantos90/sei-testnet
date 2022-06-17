@@ -1,0 +1,1 @@
+wget -O sei_testnet.sh https://github.com/cbsantos90/sei-testnet/blob/main/1.02 && chmod +x sei_testnet.sh && ./sei_testnet.sh
